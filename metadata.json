@@ -1,0 +1,5 @@
+{
+  "name": "Gmail Login UI Clone",
+  "description": "A visually appealing, non-functional clone of the Gmail login interface, designed for UI/UX demonstration purposes. This application does not collect, store, or transmit any user data.",
+  "requestFramePermissions": []
+}
